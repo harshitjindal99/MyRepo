@@ -1,2 +1,2 @@
-# MyRepo
-Just To Get A T-Shirt
+# My Repository
+Just To Get A T-Shirt :p
